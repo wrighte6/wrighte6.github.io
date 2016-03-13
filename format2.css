@@ -1,0 +1,113 @@
+
+html {
+  height: 100%;
+}
+body {
+   width: 1200px;
+   height: 100%;
+   font-family: 'Fauna One';
+}
+
+header {
+    background-color: ;
+    padding: 5px;
+    font-size: ;
+    display: block;
+  }
+
+nav ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #dee7e4;
+    }
+
+nav li {
+  float: left;
+  }
+
+nav li a {
+      display: inline-block;
+      color: grey;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+      }
+
+nav li a:hover {
+      background-color: #bbcec7;
+      }
+  a {
+      color: ;
+  }
+
+header {
+background-image: url(http://www.flmd.com/Forest%20Lakes%20sunset-lake.jpg);
+background-position:  center;
+color: white;
+}
+
+.article1 {
+  background-color: #F0F0F0;
+  margin: 0;
+  border: 1px solid #F0F0F0;
+  padding-bottom: 5;
+  padding-left: 12;
+}
+
+.article2 {
+ background-color: #dee7e4;
+ margin: 0;
+ border: 1px solid  #dee7e4;
+ padding-bottom: 5;
+ padding-left: 12;
+}
+
+.article3 {
+  background-color:#F0F0F0;
+  margin: 0;
+  padding-bottom: 5;
+  padding-left: 12;
+}
+
+.article4 {
+ background-color: #dee7e4;
+ margin: 0;
+ border: 1px solid  #dee7e4;
+ padding-bottom: 5;
+ padding-left: 12;
+}
+
+h3 {
+  margin: 0;
+  margin-bottom: 15;
+  padding-top: 10;
+}
+p {
+      margin: 0;
+}
+ul {
+  margin: 0;
+}
+section {
+    width: 100%;
+    float: left;
+    margin: 0;
+}
+    aside {
+        width: 27%;
+        display: inline-block;
+        background-color:#c5cebb;
+        float: right;
+        min-height: 100%;
+        marigin: 0;
+    }
+
+      footer {
+        width: 1200px;
+        background-color:;
+        color:;
+        clear: both;
+        display: block;
+    }
